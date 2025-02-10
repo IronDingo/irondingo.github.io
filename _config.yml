@@ -224,3 +224,10 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+
+mermaid:
+  enable: true
+  version: "10.6.1"  # Use the latest stable version
+  theme: "default"   # Options: default, forest, dark, neutral
