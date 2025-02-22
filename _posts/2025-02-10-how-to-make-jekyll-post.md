@@ -3,6 +3,15 @@ title: Quick Guide - Creating Posts in Jekyll
 date: 2025-02-10
 categories: [Jekyll, Tutorial]
 tags: [jekyll, markdown, guide]
+
+# Additional Options
+author: "IronDingo"
+pin: true    # pins post to top
+math: false   # enables math formatting
+mermaid: true # enables mermaid diagrams
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png
+  alt: Mermaid Diagramming and charting tool
 ---
 
 ## Creating a New Post in Jekyll
