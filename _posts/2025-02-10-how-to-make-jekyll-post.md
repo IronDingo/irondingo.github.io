@@ -10,8 +10,8 @@ pin: true    # pins post to top
 math: false   # enables math formatting
 mermaid: true # enables mermaid diagrams
 image:
-  path: https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png
-  alt: Mermaid Diagramming and charting tool
+  path: "https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png"
+  alt: Jekyll
 ---
 
 ## Creating a New Post in Jekyll
