@@ -40,7 +40,7 @@ image:
   path: /path/to/image.jpg
   alt: Image description
 ---
-```
+
 
 #### Markdown Tips
 ```md
@@ -48,6 +48,8 @@ image:
 ### Third Level
 #### Fourth Level
 ```
+
+To create code blocks, just ``` then write bash, md for markdown, html, mermaid for mermaid etc. then close it with ```
 
 #### Text Formatting
 ```md
