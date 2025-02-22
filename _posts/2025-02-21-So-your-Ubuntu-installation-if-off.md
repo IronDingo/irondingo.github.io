@@ -11,8 +11,8 @@ pin: true    # pins post to top
 math: true   # enables math formatting
 mermaid: true # enables mermaid diagrams
 image:
-  path: /path/to/image.jpg
-  alt: Image description
+  path: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/800px-Ubuntu-logo-2022.svg.png
+  alt: Ubuntu
 ---
 
 # Fix fkn everything
