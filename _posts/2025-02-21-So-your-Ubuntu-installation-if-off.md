@@ -11,7 +11,7 @@ pin: true    # pins post to top
 math: true   # enables math formatting
 mermaid: true # enables mermaid diagrams
 image:
-  path: http://allpcworld.com/wp-content/uploads/2016/09/Ubuntu-latest-version-free-download.jpg
+  path: https://allpcworld.com/wp-content/uploads/2016/09/Ubuntu-latest-version-free-download.jpg
   alt: Ubuntu
 ---
 
